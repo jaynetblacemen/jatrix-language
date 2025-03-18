@@ -17,8 +17,9 @@ Just type whatever nonsense you want, and Jatrix will
 
 ## 🔑 Setup:  
 1. **Choose Your AI Model:**  
-   Open the Python file for either **Groq AI or OpenAI**.  
-
+   Open the Python file for either **Groq AI or OpenAI**.
+If chosed OPEN AI, run this command in window powershell **pip install openai**
+if chosed GROQ AI, run this command in window powershell **pip install groq**
 2. **Insert Your API Key:**  
    Find the line `AI_api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'`  
    (usually around lines 7 to 12) and paste your API key there.  

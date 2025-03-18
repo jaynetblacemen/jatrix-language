@@ -1,4 +1,4 @@
-# Jatrix Language  
+# Jatrix Language by Outsider.NOC
 An advanced programming language powered by AI models that  
 **turns your messy text, wrong syntax, or even plain English into Python code.**  
 Just type whatever nonsense you want, and Jatrix will  

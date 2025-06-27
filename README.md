@@ -38,3 +38,10 @@ If you have more ideas for improvement, reach out on Discord:
 ## ❗ Important Note:  
 - The Groq AI model has limitations. If you face issues, it's likely due to these limitations.  
 - The OpenAI model works better but requires a valid API key.  
+## 📜 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+> Anyone is free to use, modify, or distribute this project — **BUT must provide proper credit** to:  
+**Outsider.NOC**  
+Join our [Discord](https://discord.gg/MubkqXH2hp) 💬

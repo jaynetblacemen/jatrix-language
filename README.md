@@ -1,4 +1,4 @@
-# Jatrix Language by Outsider.NOC
+# Jatrix Language
 An advanced programming language powered by AI models that  
 **turns your messy text, wrong syntax, or even plain English into Python code.**  
 Just type whatever nonsense you want, and Jatrix will  
@@ -28,10 +28,6 @@ if chosed GROQ AI, run this command in window powershell **pip install groq**
    Execute it like any other Python file. (For Windows, double-click the `.py` file)  
 
 ---  
-
-## 💡 Got Ideas?  
-If you have more ideas for improvement, reach out on Discord:  
-[Discord server](https://discord.gg/MubkqXH2hp)  
 
 ---  
 
